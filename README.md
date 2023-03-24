@@ -18,7 +18,7 @@
 ![image](https://user-images.githubusercontent.com/122191366/218304834-5bebffb1-882c-43eb-ba80-6af020575df9.png)
 
 * 将项目文件全部上传
-* 点击上面的“Run”按钮，待看到右下角出现分享链接和二维码即可代表运行成功
+* 点击上面的“Run”按钮，待看到右下角的Console出现信息即可代表运行成功。用户名和密码已经生成在里面了
 * 点击Webview里面的小铅笔图标，按照步骤绑定域名
 
 ![image](https://user-images.githubusercontent.com/122191366/218304873-3aefe218-272f-4a1b-b0ee-0e4552b12db7.png)
